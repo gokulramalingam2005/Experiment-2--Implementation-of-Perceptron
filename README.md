@@ -53,8 +53,8 @@ For ‘N ‘ iterations ,do the following:
 
 ## PROGRAM:
 ~~~
-Developed By: G Venkata Pavan Kumar
-Reg No.: 212221240013
+Developed By:gokul R
+Reg No.: 212222230039
 ~~~
 
 ~~~
